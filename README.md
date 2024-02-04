@@ -1,5 +1,8 @@
 <h1>Blog App</h1>
 
+<img src="https://github.com/MertSolgun/BlogApp/assets/115940928/a025cc87-4d88-42e3-b693-cb77fe6b0c5b">
+
+
 
 ## `Kullanilan Kutuphaneler`
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
