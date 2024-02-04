@@ -1,4 +1,6 @@
-<h1>Blog App</h1>
+<h1>Blog App 
+  <a href="https://blog-app-olive-nine.vercel.app/">Live</a>
+</h1>
 
 <img src="https://github.com/MertSolgun/BlogApp/assets/115940928/a025cc87-4d88-42e3-b693-cb77fe6b0c5b">
 
