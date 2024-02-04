@@ -48,7 +48,6 @@ export const authSlice = createSlice({
       state.user.token = token;
     },
     loginSuccessfully: (state, { payload }) => {
-      console.log(payload);
       state.loading = false;
       state._id = payload.user._id;
       state.user.firstName = payload.user.firstName;

@@ -72,7 +72,7 @@ function Navbar() {
   };
 
   return (
-    <AppBar sx={{ backgroundColor: "#273136",position:"relative" }} className="navbar">
+    <AppBar sx={{ backgroundColor: "#273136" }} className="navbar">
       <CssBaseline />
       <Container maxWidth="xl">
         <Toolbar disableGutters>
