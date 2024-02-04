@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100;0,400;1,700&display=swap");
+
+.css-1vj837i-MuiPaper-root-MuiAppBar-root {
+  width: 100% !important;
+  position: relative !important;
+}
+
+.font {
+  font-family: "JetBrains Mono", monospace !important;
+}
+
+.w-100 {
+  font-weight: 100;
+}
+.w-700 {
+  font-weight: 700;
+}
